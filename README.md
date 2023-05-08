@@ -1,5 +1,7 @@
 # CodePackageAlisa
 Code Package for Project by Alisa Tarasova
+- GoogleColab link - https://colab.research.google.com/drive/18OycPYGlTwPst9YpCWN5sr_DeIFeGxtI?usp=sharing
+- GooglePages website -https://sites.google.com/view/alisatarasovafinalproject/%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F-%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0
 
 What all of the functions you wrote to create your drawings do.
 - All of the functions are meant to be used in order to create colored shapes in different pattern manner via Turtle using ColabTurtlePlus.Turtle in GoogleColab
